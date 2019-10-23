@@ -20,4 +20,37 @@ As in pinochle points are made in two ways by the play of the hand and in the co
 
 The easiest way into the game is to start playing it with special attention to some terms that have special meaining in cribbage and are bold face in the eplainaation that follows. 
 
-Each player cuts the ceck for low card to choose the dealer who deals six cards to each player on e at a time. In looking fver your hand you'll find the counting of "plp" value corresponds to the numerals with the exception of the face cards  
+Each player cuts the ceck for low card to choose the dealer who deals six cards to each player on e at a time. In looking fver your hand you'll find the counting of "plp" value corresponds to the numerals with the exception of the face cards which all count for ten and the aces which count for one. It takes several deals to complete a game in which one player makes a total of 121 points or 61 — whichever you decide to play — and the deal alternates between the two players. When playing for 121, if the winner reaches home before his opponent has 91, it is a "Skunk" and scores two games won. If the winner reaches 121 before his opponent has 61, it is a double "Skunk" and scores four games won. 
+
+After the deal, each player puts 2 cards face down on the table. These 4 cards make up the crib and are put aside till after the hands are played. Then the "pone" or dealer's oppponent cuts the deck and dealer taeks the top card off the bottom section to obtain the starter which, like the crib, is set aside and has no significance during the play: if it happens to be a jack, the dealer takes 2 points for Nobs by putting his leading peg in the second hole. 
+
+The pone starts the play by putting the card of his choice face up on the table next to his side of the cribbage board and giving up his pip value. The dealer then plays a card-choosing one if he can that will make points when added to the first card played, adding up to 15 or mating the first card for a poir — by placing it face up beside his side of the board. The third card played in like manner by the pone must make a run of three if all three cards (regardless of suit) that have been played in sequence have pip values in order — like 2–3–4. 4–3–2. 6–7–8. 8–7–6. etc.
+
+This continues until the total pip values played add up to 31 or until one player cannot play without going over 31: in that event the other player takes a point for "Go" and must play for as long as he can add pip values that do not exceed 31. After each 31 all cards played are turned over and part of a "run" cannot be carried over for counting into the next 31 series. Any time a card played hits 31 "on the nose" the player can take 2 points, otherwise each "last card" before the other player has to stop counts one. 
+
+1. Either player sees scoring plays that are missed the the other, he can obtain the points by calling "muggine" providing he does so immediately and shows how the score is obtained. 
+
+While some hands will play out without reaching the 31 the hand will usually contain more than one 31 series and continues until all cards are played. Each time one player can't play without exceeding 31, he tells the other player to "Go." In summary, here are the points that can be scored in play: 
+
+Fifteen::
+  2 points
+Pair::
+  2 points
+Triplets::
+  6 points
+Fours::
+  12 points
+Runs of 3 or more::
+  1 point
+  for each card
+
+Nobs in hand::
+  1 point
+"Last card"::
+  1 point
+31 w/ last card::
+  2 points
+
+= Counting the Hand
+
+After the last card is played they hands are counted using the starter card as if it were a fifth card in each hand. The pone counts his hand first, taking points for any and all combinations that he finds, as listed above except of course "last card" and "31", in addition he may take 4 points for a 4-card flush (4–cards in the hadn all in the same suit) and a 5–card flush pegging off his count
