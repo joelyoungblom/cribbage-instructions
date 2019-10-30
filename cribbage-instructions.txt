@@ -53,4 +53,26 @@ Nobs in hand::
 
 = Counting the Hand
 
-After the last card is played they hands are counted using the starter card as if it were a fifth card in each hand. The pone counts his hand first, taking points for any and all combinations that he finds, as listed above except of course "last card" and "31", in addition he may take 4 points for a 4-card flush (4–cards in the hadn all in the same suit) and a 5–card flush pegging off his count
+After the last card is played they hands are counted using the starter card as if it were a fifth card in each hand. The pone counts his hand first, taking points for any and all combinations that he finds, as listed above except of course "last card" and "31", in addition he may take 4 points for a 4-card flush (4–cards in the hadn all in the same suit) and a 5–card flush pegging off his count, as for example "15-tow-four-six and eight, two pairs for 12 and four runs of three for 24" The Jack of the same suit as the starter card, found in the hand is called Nobs and counts one point. 
+
+The dealer then does the same for his hand and then for his "second hand" or crib. To count a flush in the crib, all 4 cards must march the suit of the starter card. It should be noted that in counting the hands, the same cards can be used over and over so long as either a new card is added or the same cards form different combinations. The example above is for a hand which, with a starter card, contains a pair of fours. A five and a pair of sixes—an excellent cribbage hand. the best possible count is 29. 
+
+= Adding Skill to Chance
+
+Of course part of the game is the degree of luck one has in drawing a good hand or a crib that goes wll with the starter card. But the most important part of a cribbage hand is in playing to help your own socre and lower that of your opponent. The dealer should place cards in the crib which will help him, the pone will crib cards that will not help the dealer—an ace and a face card are reputedly good "baulking" cards.
+
+Sometimes you can anticipate what your opponent will do. For example, if your own hand contains a 1 and a 4, lead one of these cards your opponent is much more likely to play a 10 "count card than any other (the deck has more of them), and then you can add the other card to count 15 for two points.
+
+It is generally wise to take few chances of your opponent's being able to capitalize on the cards you play when you're ahead—and to take many such chances when you're behind, even at the risk of helping your opponent's score at the same tiem that you are increasing your own.
+
+Because this is the nature of the game, it's a good idea to keep close watch on the score board to help you decide when you take a chance. 
+
+= With More Than Two Players
+
+Cribbage can also be played with from 3 to 6 players. The only differences have to do with sides, dealing and discard to the crib with 4 or 6 players, you play two sides with one partner pegging for each side, with four, players opposite each other are partners, five cards are dealt to each player, and each discards one to make the crib: with six, alternate players are partners fie cards are dealt to the first four players and each discards one with 3 or 5 players, as with 2 it's every man for himself and you may need more than one baord or some special arrangement that is agreed upon for each man to peg his own line of scoring: with 3, each player is dealt five cards and one is dealt to the crib each player adding one discard, with 5, each is dealt five cards except the dealer who gets four the others each discarding one to the crib. 
+
+= Examples of Counting
+
+Here are some examples of possible cribbage hands and how the add up after the play. Checking them out against the first six of the eight point values listed above and teh 5 for a 5-card flush that apply to the "meld" will help you to become accustomed to recognizing combinations that count. The N stands for Hist Nobs or Jack of trump and the asterisk ( * ) in dicates that the whole hand and starter are of one suit (5-card flush) Impossible hand counts are 19 25 26 and 27. The first example counts out as follows" "Fif-teen-two  four-six (the 10 and 1 are combining with each of the three fours for two points each (and triplets are 12
+
+
